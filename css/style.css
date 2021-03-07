@@ -566,7 +566,7 @@ a:focus {
     content: '';
     position: absolute;
     width: 2px;
-    background: #EF233C;
+    background: #013243;
     top: 0;
     bottom: 0;
     left: 50%;
@@ -598,7 +598,7 @@ a:focus {
     top: 48px;
     right: -8px;
     background: #ffffff;
-    border: 2px solid #EF233C;
+    border: 2px solid #013243;
     border-radius: 16px;
     z-index: 1;
 }
@@ -630,7 +630,7 @@ a:focus {
     top: 44px;
     font-size: 16px;
     font-weight: 600;
-    color: #EF233C;
+    color: #013243;
     text-transform: uppercase;
     letter-spacing: 1px;
     z-index: 1;
