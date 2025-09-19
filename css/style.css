@@ -864,8 +864,8 @@ a:focus {
     position: relative;
     width: 100%; 
     height: 100%; 
-    object-fit: cover;
-    transform: scale(1.1);
+    /* object-fit: cover; */
+    /* transform: scale(1.1); */
     transition: .5s;
 }
 
